@@ -8,5 +8,9 @@ namespace ConsoleApp_PIS_1
 {
     class Class1
     {
+        Add.List()
+        {
+            Console.WriteLine("Val was here!"); 
+        }
     }
 }
