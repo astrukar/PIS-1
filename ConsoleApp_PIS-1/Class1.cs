@@ -11,6 +11,7 @@ namespace ConsoleApp_PIS_1
         Add.List()
         {
             Console.WriteLine("Val was here!");
+            Console.WriteLine("Popravljeno!");
         }
     }
 }
